@@ -1,1 +1,2 @@
 # Mining-rent-prices
+This repo contains a data mining project whose aim is to analyze the differences in rental prices offered on various websites in the United States. This sample project was done as part of a Data Science MSc and contains two python notebooks. Thee first one contains the code and explanations for the cleaning and preprocessing of the dataset. In the second one, wee apply various clustering and classification algorithms to extract insights from the data.
